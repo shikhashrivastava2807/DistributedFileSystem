@@ -78,12 +78,3 @@ append to them should return an error message.
 3. When a failed server recovers, it should resume sending its heartbeat messages, and the M-server which should
 repopulate its metadata to indicate the availability for the recovered servers chunks.
 
-
-#### 4 Submission Information
-The submission should be through eLearning in the form of an archive consisting of:
-
-1. File(s) containing the source code. Your source code must have the following, otherwise you will lose points:
-(a) Proper comments indicating what is being done.
-(b) Error checking for all function and system calls.
-
-2. The README file, which describes how to run your program.
